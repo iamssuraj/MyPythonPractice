@@ -1,0 +1,16 @@
+ValueError
+TypeError
+ZeroDivisionError
+.
+.
+'''
+A General case in python:
+
+try:
+#code
+except ZeroDivisionError:
+#code
+except #TypeError:
+#code
+except
+#rest all cases code

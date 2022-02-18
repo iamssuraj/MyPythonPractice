@@ -1,0 +1,7 @@
+a=input("Please enter your name : ")
+print("Hi !",a)
+b=input("Enter a number : ")
+b=int(b)
+c=input("Enter another number : ")
+c=int(c)
+print("Sum is ",b+c)
